@@ -46,12 +46,11 @@ ul{
 
 /* advantages section */
 .advantages-list{
-    color: var(--color-primery-light) 
+    color: var(--color-primery-light);
     background-color: var(--color-brand-light);
 }
 
-/* section title */
-.section-title .accent{
-    color: var(--color-primery-dark);
+.section-title{
+    color: #31261A;
 }
     
